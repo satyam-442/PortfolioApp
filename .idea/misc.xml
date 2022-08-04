@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SATYAM/CollegeProjects/PortfolioApp/app/src/main/res/drawable/bullet_oval.xml" value="0.1285" />
+        <entry key="..\:/SATYAM/CollegeProjects/PortfolioApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/SATYAM/CollegeProjects/PortfolioApp/app/src/main/res/layout/custom_alert.xml" value="0.33" />
+        <entry key="..\:/SATYAM/CollegeProjects/PortfolioApp/app/src/main/res/layout/demo.xml" value="0.25" />
+        <entry key="..\:/SATYAM/CollegeProjects/PortfolioApp/app/src/main/res/layout/fragment_contact.xml" value="0.5" />
+        <entry key="..\:/SATYAM/CollegeProjects/PortfolioApp/app/src/main/res/layout/fragment_education.xml" value="0.33" />
+        <entry key="..\:/SATYAM/CollegeProjects/PortfolioApp/app/src/main/res/layout/fragment_experience.xml" value="0.19722222222222222" />
+        <entry key="..\:/SATYAM/CollegeProjects/PortfolioApp/app/src/main/res/layout/fragment_home.xml" value="0.22552083333333334" />
+        <entry key="..\:/SATYAM/CollegeProjects/PortfolioApp/app/src/main/res/layout/fragment_portfolio.xml" value="0.2" />
+        <entry key="..\:/SATYAM/CollegeProjects/PortfolioApp/app/src/main/res/layout/portfolio_item.xml" value="0.18" />
+        <entry key="..\:/SATYAM/CollegeProjects/PortfolioApp/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.19722222222222222" />
+        <entry key="..\:/SATYAM/CollegeProjects/PortfolioApp/app/src/main/res/menu/menu.xml" value="0.22552083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

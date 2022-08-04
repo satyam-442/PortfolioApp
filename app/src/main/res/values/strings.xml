@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Portfolio App</string>
+    <string name="job_name"><![CDATA[Data Engineer & Fullstack Developer]]></string>
+    <string name="my_name">Satyam S.\nTiwari</string>
+    <string name="bio_data">An Enthusiastic and unbiased personality holding an expertise in Operation Executive with a demonstrated history of working in the IT industry. Have a good knowledge on Java, Flutter, Dart, XML. Have a good understanding in HTML5 and CSS3.</string>
+    <string name="respon_two">Develop the ETL code. Adding some filtration, applying joins to SQL. Write PL-SQL code</string>
+    <string name="respon_one">Major task is of deploying the Informatica Workflows. i.e Migrating code from one environment to another</string>
+    <string name="course_name">Bachelor of Science in\nInformation Technology</string>
+    <string name="degree_education_details">Holding a graduate degree in Information Technology. Pursued good knowledge on programming languages and also developed a good problem solving strategy.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="oct_2020">Accomplished my graduation degree with an aggregate of 87 percent from B.N.N. College, Bhiwandi affiliated with the University of Mumbai. Gained good knowledge of PSP(Problem Solving Products) and programming languages like Java and Python.</string>
+    <string name="ssc">Secondary School\nCertificate(10th)</string>
+    <string name="hsc">Higher Secondary\nCertificate(12th)</string>
+    <string name="june_2017">Accomplished HSC with an aggregate of 78 percent from The scholars English High School and Jr. College located in Bhiwandi.</string>
+    <string name="july_2015">Accomplished SSC with an aggregate of 72 percent from The scholars English High School and Jr. College located in Bhiwandi.</string>
+    <string name="portfolio_details">Hey there… These are the works which I\'ve developed with the skills I\'ve acquired. All these are the android application developed on Java or Flutter. </string>
+    <string name="acadroid_details">This APP is a system which maintains the information about the books used in the syllabus, a platform to discuss the queries about the topics and respond accordingly a blog for extra technology facts published by the own staff., a anywhere anytime study buddy. Apart from this this programmatically based instance gives the notifications about the activities taking place in the campus (EVENTS, HOLIDAYS, NOTICES, etc.), contains a well extracted PPT (PowerPoint Presentations) for better understandability and also consists of video lectures This system also keep track on the queries the students is asking and how many of them are resolved by the teacher. The staff as well as the students will be provided different applications based on their services and interests This is very difficult to organize such tasks manually is quite complex. Owing to the technology, organization of the campus and its basic requirements will be accessed in case. This APP has been designed to computerize and automate the operations performed over the information about the members, books, queries the students facing and all other operations. This computerization of library and online discussion platform helps in many instances and make the curriculum activities over the internet. KEYWORDS: Syllabus Book, Videos, PPT, Discuss section, Alerts, Blog, Mobile App. Students. Teachers.</string>
+    <string name="gifthouse_details">A platform to buy the gift at one place from your best locale shops. Purchase the gifts from here and make the day more special of your loved one\'s.</string>
+    <string name="acadroid_quiz_details">AcaDroid has brought a new app for you. This gives the student to gain the general knowledge about basic computer\'s, programming languages and many others. This will help the students.</string>
+    <string name="blood_details">It is a blood donation application where there is a two way communication among sender and receiver who acn share and receive the blood any where and any time.</string>
+    <string name="freelancer_details">As a freelancer, I\'ve developed many android applications for clients (mostly final year IT students) using my skills in Java and Flutter.</string>
+    <string name="infosys_details">I\'m currently working as a Data Engineer in Infosys ltd. My primary job is in ETL development. In spite of these, I do deployment (migrating code from one environment to another for testing). I\'ve also worked on visualization tools like Power BI or MSBI.</string>
+</resources>
